@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+td {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+header {
+    font-size: 19px;
+}
+a {
+    background-color: rgb(0, 0, 190);
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+}
+header {
+    background-color: rgb(188, 194, 255);
+    color: rgb(0, 0, 139);
+}
+main p{
+    font-size: 22px;
+}
+.picture {
+    text-align: center;
+}
+footer {
+    background-color: rgb(188, 194, 255);
+}
+
+
